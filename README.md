@@ -50,7 +50,8 @@ _No installation required. Compatible with Windows 10/11 (64-bit)._
 ## 📝 License
 
 This project is licensed under the **MIT License**.  
-See the [LICENSE]([LICENSE](https://github.com/ruwanoficial/bulkimageresizer/blob/main/LICENSE)) file for details.
+See the ([LICENSE](https://github.com/ruwanoficial/bulkimageresizer/blob/main/LICENSE))   file for details.
+
 
 ---
 
